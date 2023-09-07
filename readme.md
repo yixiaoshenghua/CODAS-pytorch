@@ -1,5 +1,7 @@
 # CODAS
 The Official PyTorch Code for ["Cross-Modal Domain Adaptation for Cost-Efficient Visual Reinforcement Learning"](https://proceedings.neurips.cc/paper/2021/hash/68264bdb65b97eeae6788aa3348e553c-Abstract.html)
+
+Tensorflow-version code: https://github.com/xionghuichen/CODAS
 # Code Structure
 CODAS
 
